@@ -6,5 +6,5 @@ $('.sign-in').on('dblclick', function() {
 
 $('#user-sign-in').on('click', function() {
 	$('.sign-in').addClass('hidden')
-	// $(this).addClass('dashboard')
+	$('.dashboard').removeClass('hidden')
 })
