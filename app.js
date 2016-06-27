@@ -1,3 +1,5 @@
 // alert("hi planet")
 
-$('.sign-in').fadeIn('slow')
+$('.sign-in').on('dblclick', function() {
+	alert("I was clicked!")
+})
