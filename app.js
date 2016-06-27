@@ -1,3 +1,3 @@
 // alert("hi planet")
 
-$('#sign-in').fadeIn('slow')
+$('.sign-in').fadeIn('slow')
