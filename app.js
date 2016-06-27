@@ -1,3 +1,3 @@
-alert("hi planet")
+// alert("hi planet")
 
 $('#sign-in').fadeIn()
